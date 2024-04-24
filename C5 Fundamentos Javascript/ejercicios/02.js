@@ -1,6 +1,6 @@
 // Crea una variable de tipo number.
+let nuevoNumero =null
 // Reemplaza el valor de null por el correspondiente.
-
-const nuevoNumero = null;
+ nuevoNumero = 10;
 
 module.exports = nuevoNumero;
